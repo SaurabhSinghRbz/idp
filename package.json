@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "idp",
+  "version": "1.0.0",
+  "main": "middleware.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
